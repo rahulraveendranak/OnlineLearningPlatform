@@ -1,5 +1,4 @@
 # OnlineLearningPlatform
 Its a online learning platform website on django framework<br>
 one table which have installed tinymce editor.<br> 
-authenticate,login,logout<br>
-❮img src="screenshot/Screenshot.png"❯
+authenticate,login,logout
