@@ -1,4 +1,4 @@
 # OnlineLearningPlatform
-Its a online learning platform website on django framework<br>
-one table which have installed tinymce editor.<br> 
+Its a online learning platform website build on django framework<br>
+installed tinymce Texteditor<br> 
 authenticate,login,logout
